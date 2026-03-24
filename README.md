@@ -1,4 +1,14 @@
-# 🏥 FedMRI India: Democratizing MRI Access via Federated Learning
+# FedMRI India: Democratizing MRI Access via Federated Learning
+
+**Team Name**: NeuroSpark
+
+**Team Members**: 
+- Alan Saldanha
+- Jagdish Choudhary
+- Yuv Mukhi
+- Aditya Dharawat
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![FedMRI](https://img.shields.io/badge/FedMRI-Proprietary_Engine-success.svg)
