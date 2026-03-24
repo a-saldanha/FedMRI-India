@@ -4,9 +4,6 @@
 
 **Team Members**: 
 - Alan Saldanha
-- Jagdish Choudhary
-- Yuv Mukhi
-- Aditya Dharawat
 
 ---
 
